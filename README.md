@@ -55,7 +55,8 @@ jupyter notebook notebooks/module-1/01-create-knowledge-base.ipynb
 │ └── module-4/ (2 notebooks)
 ├── scripts/
 ├── data/
-└── outputs/```
+└── outputs/
+```
 
 
 ---
