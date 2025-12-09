@@ -42,7 +42,7 @@ jupyter notebook notebooks/module-1/01-create-knowledge-base.ipynb
 
 ## 📁 Structure
 
-rag-workshop-amazon-bedrock/
+```rag-workshop-amazon-bedrock/
 ├── README.md
 ├── BLOG_POST.md
 ├── requirements.txt
@@ -55,7 +55,7 @@ rag-workshop-amazon-bedrock/
 │ └── module-4/ (2 notebooks)
 ├── scripts/
 ├── data/
-└── outputs/
+└── outputs/```
 
 
 ---
